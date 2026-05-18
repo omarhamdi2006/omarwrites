@@ -27,7 +27,7 @@ export default function HelloPage() {
             <p className='w-50'>hobbyist in computers and any piece of silicon inside a moderately-bad
             designed box
         </p>
-            <img src="/src/assets/mine.jpg" alt="" className='w-50 mx-20' />
+            <img src="./assets/mine.jpg" alt="" className='w-50 mx-20' />
             <h2 className='text-xl'>&larr; that's me</h2>
             </div>
 
@@ -36,10 +36,10 @@ export default function HelloPage() {
         <p className='w-80'>
             that's the silicon chip inside a "poorly" designer box i am using rn
             </p>    
-        <img src="/src/assets/laptop.webp" alt="" className='w-70 ms-30' />
+        <img src="./assets/laptop.webp" alt="" className='w-70 ms-30' />
             </div>
         <div className="first flex items-center">    
-        <img src="/src/assets/kanye.jpg" alt="" className='w-70 me-30' />
+        <img src="./assets/kanye.jpg" alt="" className='w-70 me-30' />
         <p className='w-80'>
             that's just a photo of the goat
             </p>    
